@@ -59,5 +59,6 @@ Based on the analysis, the following recommendations are provided to help indivi
 
 ## Technical Project Information
 The [orginal data is avaliable](salary_data.json) here used for this analysis was sourced from Kaggle, containing data from multiple sources, including surveys, job postings, and publicly available records. The dataset includes details on job titles, salaries, education levels, years of experience, and job functions.
+
 Data cleaning and transformation were performed in SQL, including handling missing values and standardizing job categoriesm, you can [view the SQL script here](salary_sql.sql). The final dataset was then analyzed and visualized using Tableau, providing key insights into salary distribution, career progression, and job market trends, you can check out the [Salary Analysis - Tableau Dashboard](https://public.tableau.com/views/salary_analysis_entry/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
