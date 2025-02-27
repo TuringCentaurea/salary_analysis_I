@@ -8,7 +8,7 @@ Data Science has the highest representation (515 individuals) with an average sa
 Salary growth is tied to experience, with Data Scientists progressing from $108,636 (5 years) to $240,000 (25 years). Promotions in Data Analysis show a 200% salary increase from Junior to Senior roles. Leadership salaries rise steadily with experience, reaching $220,000 at 20 years.
 The most common job title is Data Scientist (453 records), followed by Data Analyst (363 records). Senior and leadership roles appear less frequently but offer higher earning potential.
 ## Salary Analysis Dashboard
-[![Dashboard Preview](https://public.tableau.com/static/images/sa/salary_analysis_entry/Dashboard1/1.png)](https://public.tableau.com/views/salary_analysis_entry/Dashboard1)
+[![image](https://github.com/user-attachments/assets/3586780d-c77d-4386-b7c7-98f48188b409)](https://public.tableau.com/views/salary_analysis_entry/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Data Preparation
