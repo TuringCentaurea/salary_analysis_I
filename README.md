@@ -7,7 +7,7 @@ This study analyzes 969 data-related job records, focusing on Leadership, Data A
 Data Science has the highest representation (515 individuals) with an average salary of $164,099, primarily held by PhD graduates (71.26%). Data Analysts (391 individuals) earn an average of $120,606, with most holding a Bachelor’s degree (79.8%). Leadership roles (58 individuals) have the highest salary at $204,827, with 100% holding a PhD.
 Salary growth is tied to experience, with Data Scientists progressing from $108,636 (5 years) to $240,000 (25 years). Promotions in Data Analysis show a 200% salary increase from Junior to Senior roles. Leadership salaries rise steadily with experience, reaching $220,000 at 20 years.
 The most common job title is Data Scientist (453 records), followed by Data Analyst (363 records). Senior and leadership roles appear less frequently but offer higher earning potential.
-## Salary Analysis Dashboard
+## [Salary Analysis Dashboard](https://public.tableau.com/views/salary_analysis_entry/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [![image](https://github.com/user-attachments/assets/3586780d-c77d-4386-b7c7-98f48188b409)](https://public.tableau.com/views/salary_analysis_entry/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
